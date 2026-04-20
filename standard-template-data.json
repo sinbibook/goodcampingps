@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-04-20T06:50:44.856Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-04-20T07:00:45.675Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -19,7 +19,7 @@
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
-    "checkInOutInfo": "[입/퇴실 안내]\n-  입실 15시 / 퇴실 11시\n※ 22시 이후 입실 시 펜션으로 미리 연락 부탁드립니다. ",
+    "checkInOutInfo": "[입/퇴실 안내]\n-  입실 15시 / 퇴실 11시\n※ 22시 이후 입실 시 펜션으로 미리 연락 부탁드립니다.",
     "usageGuide": "[펜션 이용 안내 사항]\n- 객실 내에서 육류 및 생선 조리는 불가합니다.\n- 독채펜션 5인이상 입실 시 사전 문의 필수\n- 전 객실 애완동물 출입 불가합니다.\n- 미니카라반 1,2는 화장실 구비되어 있지 않아 공용 화장실 이용하셔야 합니다.\n\n[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 개별 데크\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인 20,000원 / 3~4인 30,000원(1박기준/현장결제)\n※ 5인 이상은 현장 문의\n- 숯불 피워주는 시간 : ~21:00 (최소 1시간 전 예약 필수)\n- 이용 시간: ~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가\n\n[편의시설]\n- 와이파이 보유\n- 전 객실 금연\n- 공용화장실\n- 공용 주방 / 식당, 전자레인지\n\n[주차장]\n- 주자창 보유",
     "reservationGuide": "미성년자는 보호자 없이 예약 및 입실 불가하며, 위반 시 환불 없이 퇴실됩니다.\n객실 요금은 기준 인원 기준이며, 초과 시 추가 요금이 발생합니다.\n최대 인원 초과 시 입실 불가하며, 이로 인한 환불은 불가입니다. (유아, 어린이 포함)\n현장 추가 요금은 숙소 측에 사전 확인 바랍니다.\n수영장 등 부대시설은 날씨나 상황에 따라 이용이 제한될 수 있으니 사전 확인 바랍니다.\n당일 예약 후 취소 시 환불 불가하며, 늦은 시간 당일 예약 후 즉시 방문 시 입실 불가할 수 있으니 숙소 확인 후 예약해 주세요.\n취소 수수료는 구매처마다 다를 수 있습니다.\n시스템 오류로 인해 정상가와 다른 금액으로 예약이 진행된 경우, 부득이하게 예약이 취소될 수 있습니다.\n전 객실 금연이며, 흡연은 지정된 장소에서만 가능합니다.",
     "province": "강원특별자치도",
@@ -96,8 +96,94 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "3c898d84-c46f-4ea3-b9e0-8fc8ffdf7bf3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/thumbnail/1776668038171-9xxjbkw94g6.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "c311e719-f80f-48da-a4c9-3825ff37daa8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-jbsnc246zuo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1c621531-592a-4130-b35d-d7d74861be73",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-jhxp3dvfdo.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "013c2381-824c-45a9-ab2d-2fd493519699",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3921fo0vysx.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0b01997b-89e1-471d-88e8-f0b719a06e65",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-enl2xq5z8n.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3d9249a7-8deb-41f2-960d-4f95616d9834",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3dylgrrn0ym.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "71d43836-9139-4352-8b69-a73815f0b382",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-um1w8ffgk4h.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ee7ecdf4-9363-44fa-aa58-79926bb742f7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-8wetxzswul7.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "febabccc-99b9-4826-80a5-7c57ecaa935a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-orn0xuu2uyj.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2ad9f9c3-b6f9-4f0c-9547-d0f52e92ae31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-d7n2wttwx85.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "0d12a0a7-32ae-4230-b0ce-8ef680a54da3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-yanpq1iups.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2eb4c0d0-f527-4f30-9ba0-c220da7e54fc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-x0ytgnacer.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
