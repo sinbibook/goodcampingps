@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-04-20T07:00:45.675Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-04-24T06:28:37.751Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -66,23 +66,183 @@
       "commissionRate": 0,
       "securityDeposit": 0
     },
-    "facilities": [],
-    "refundPolicies": [
+    "facilities": [
       {
-        "refundProcessingDays": 7,
-        "refundRate": 100
+        "id": "5c840a58-2c39-46f2-a1a7-349c2d746bde",
+        "name": "개별바베큐",
+        "description": "전 객실 개별 데크 개별바베큐 가능",
+        "usageGuide": "[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 개별 데크\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금: 2인 20,000원 / 3~4인 30,000원(1박기준/현장결제)\n※ 5인 이상은 현장 문의\n- 숯불 피워주는 시간 : ~21:00 (최소 1시간 전 예약 필수)\n- 이용 시간: ~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 불가",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "b9fc2c70-f941-4f0c-afc7-2eedcaf4a2df",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-r48tvzpdin.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b6c2fe09-2813-4013-9ecc-66b61d66c1bd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-8m565badkue.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1e6acf28-f0d8-457b-b772-5a9b05498cde",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020053-3g8sh19rz7h.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "03db2155-e2f4-46c1-aa5e-6b76947a163d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-aeebtb6ccz.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b0e5982b-8200-4868-ad7d-1e5f9e01e2a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-l8u2jumxggn.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8c85790c-64f0-47d8-a0aa-4dc78df3a7cc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020053-ydzdfgekob9.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
-        "refundProcessingDays": 5,
+        "id": "2a5e22ce-bcd9-48f2-beaf-1d45603e2409",
+        "name": "사천해변",
+        "description": "펜션에서 가까운 거리에 사천해변이 있습니다. ",
+        "usageGuide": "펜션에서 가까운 거리에 사천해변이 있습니다. ",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "2b0c9798-517d-4db2-b058-47d6a6c9edbd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048247-bjnlzz4qlyt.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "a019b3d8-aad3-467e-b779-7b62976920a2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048248-02svtazk2oqm.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ab098083-78d5-415e-bb00-b69be9e0830e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048248-zjo0v1hnimr.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      },
+      {
+        "id": "dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee",
+        "name": "편의시설",
+        "description": "펜션 편의시설 안내",
+        "usageGuide": "[편의시설]\n- 와이파이 보유\n- 전 객실 금연\n- 공용화장실\n- 공용 주방 / 식당, 전자레인지",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "487ecfb5-3fdf-4994-85a3-e5bd0b31d1bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-snzh918sxd.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "58cabc12-309c-4fb6-8229-38c5e989ff80",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-inubebgmq1a.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "df91400c-a32d-420f-bbde-4c8eda3baade",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089458-mkeqs22h7r.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1b697458-66f3-4a90-a76b-5263183b42f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-fpzfyljyifj.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "71812cda-cc91-49ae-9f7b-dc6615466ee4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-lhzc8ohic8s.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "d9b92157-d102-41be-ac9f-65559e5ce3d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-3z809xee1dx.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1fc80d55-834a-47de-9a47-b22b3b975110",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-ackseum9fev.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          }
+        ]
+      }
+    ],
+    "refundPolicies": [
+      {
+        "refundProcessingDays": 9,
+        "refundRate": 90
+      },
+      {
+        "refundProcessingDays": 8,
         "refundRate": 80
       },
       {
-        "refundProcessingDays": 3,
+        "refundProcessingDays": 7,
+        "refundRate": 70
+      },
+      {
+        "refundProcessingDays": 6,
+        "refundRate": 60
+      },
+      {
+        "refundProcessingDays": 5,
         "refundRate": 50
       },
       {
-        "refundProcessingDays": 1,
+        "refundProcessingDays": 4,
+        "refundRate": 40
+      },
+      {
+        "refundProcessingDays": 3,
         "refundRate": 30
+      },
+      {
+        "refundProcessingDays": 2,
+        "refundRate": 20
+      },
+      {
+        "refundProcessingDays": 1,
+        "refundRate": 10
       },
       {
         "refundProcessingDays": 0,
