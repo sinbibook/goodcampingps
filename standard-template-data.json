@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-04-24T07:09:37.072Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-04-27T02:55:09.225Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -26,7 +26,7 @@
     "city": "강릉시",
     "domain": "goodcampingps.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11741",
-    "ybsId": "",
+    "ybsId": "80041",
     "amenities": [],
     "nearbyAttractions": [
       "해변"
