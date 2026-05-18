@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-04-27T02:55:09.225Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-05-18T05:11:05.844843672Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -25,13 +25,13 @@
     "province": "강원특별자치도",
     "city": "강릉시",
     "domain": "goodcampingps.kr",
-    "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11741",
+    "realtimeBookingId": "https://map.naver.com/p/entry/place/1089326230",
     "ybsId": "80041",
-    "amenities": [],
+    "amenities": [ ],
     "nearbyAttractions": [
       "해변"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "힐링",
       "가족",
@@ -49,7 +49,8 @@
       "businessEmail": "123@naver.com",
       "businessType": "individual",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -75,46 +76,52 @@
         "displayOrder": 0,
         "images": [
           {
-            "id": "b9fc2c70-f941-4f0c-afc7-2eedcaf4a2df",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-r48tvzpdin.jpg",
-            "sortOrder": 3,
+            "id": "03db2155-e2f4-46c1-aa5e-6b76947a163d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-aeebtb6ccz.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "b6c2fe09-2813-4013-9ecc-66b61d66c1bd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-8m565badkue.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1e6acf28-f0d8-457b-b772-5a9b05498cde",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020053-3g8sh19rz7h.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "03db2155-e2f4-46c1-aa5e-6b76947a163d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-aeebtb6ccz.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "b0e5982b-8200-4868-ad7d-1e5f9e01e2a9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-l8u2jumxggn.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b9fc2c70-f941-4f0c-afc7-2eedcaf4a2df",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020052-r48tvzpdin.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1e6acf28-f0d8-457b-b772-5a9b05498cde",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020053-3g8sh19rz7h.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8c85790c-64f0-47d8-a0aa-4dc78df3a7cc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5c840a58-2c39-46f2-a1a7-349c2d746bde/main/1777012020053-ydzdfgekob9.jpg",
             "sortOrder": 5,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -130,21 +137,24 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048247-bjnlzz4qlyt.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "a019b3d8-aad3-467e-b779-7b62976920a2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048248-02svtazk2oqm.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ab098083-78d5-415e-bb00-b69be9e0830e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2a5e22ce-bcd9-48f2-beaf-1d45603e2409/main/1777012048248-zjo0v1hnimr.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -156,53 +166,60 @@
         "displayOrder": 2,
         "images": [
           {
-            "id": "487ecfb5-3fdf-4994-85a3-e5bd0b31d1bb",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-snzh918sxd.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "58cabc12-309c-4fb6-8229-38c5e989ff80",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-inubebgmq1a.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "df91400c-a32d-420f-bbde-4c8eda3baade",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089458-mkeqs22h7r.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1b697458-66f3-4a90-a76b-5263183b42f3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-fpzfyljyifj.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "71812cda-cc91-49ae-9f7b-dc6615466ee4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-lhzc8ohic8s.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
-            "id": "d9b92157-d102-41be-ac9f-65559e5ce3d4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-3z809xee1dx.jpg",
-            "sortOrder": 5,
+            "id": "58cabc12-309c-4fb6-8229-38c5e989ff80",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-inubebgmq1a.jpg",
+            "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "487ecfb5-3fdf-4994-85a3-e5bd0b31d1bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-snzh918sxd.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1fc80d55-834a-47de-9a47-b22b3b975110",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-ackseum9fev.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d9b92157-d102-41be-ac9f-65559e5ce3d4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-3z809xee1dx.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1b697458-66f3-4a90-a76b-5263183b42f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-fpzfyljyifj.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -262,106 +279,114 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/thumbnail/1776668038171-9xxjbkw94g6.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
+          {
+            "id": "1c621531-592a-4130-b35d-d7d74861be73",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-jhxp3dvfdo.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
           {
             "id": "c311e719-f80f-48da-a4c9-3825ff37daa8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-jbsnc246zuo.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "1c621531-592a-4130-b35d-d7d74861be73",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-jhxp3dvfdo.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "013c2381-824c-45a9-ab2d-2fd493519699",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3921fo0vysx.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0b01997b-89e1-471d-88e8-f0b719a06e65",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-enl2xq5z8n.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "3d9249a7-8deb-41f2-960d-4f95616d9834",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3dylgrrn0ym.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "71d43836-9139-4352-8b69-a73815f0b382",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-um1w8ffgk4h.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "ee7ecdf4-9363-44fa-aa58-79926bb742f7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-8wetxzswul7.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "febabccc-99b9-4826-80a5-7c57ecaa935a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-orn0xuu2uyj.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "2ad9f9c3-b6f9-4f0c-9547-d0f52e92ae31",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-d7n2wttwx85.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "0d12a0a7-32ae-4230-b0ce-8ef680a54da3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-yanpq1iups.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "2eb4c0d0-f527-4f30-9ba0-c220da7e54fc",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-x0ytgnacer.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "2ad9f9c3-b6f9-4f0c-9547-d0f52e92ae31",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-d7n2wttwx85.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "febabccc-99b9-4826-80a5-7c57ecaa935a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-orn0xuu2uyj.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "3d9249a7-8deb-41f2-960d-4f95616d9834",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3dylgrrn0ym.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0b01997b-89e1-471d-88e8-f0b719a06e65",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-enl2xq5z8n.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "71d43836-9139-4352-8b69-a73815f0b382",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-um1w8ffgk4h.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "013c2381-824c-45a9-ab2d-2fd493519699",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-3921fo0vysx.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ee7ecdf4-9363-44fa-aa58-79926bb742f7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/86fa0e4a-fba1-4769-985e-b5ae2d19e653/exterior/1776668038172-8wetxzswul7.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ]
   },
   "rooms": [
     {
       "id": "eca6c67f-8b50-4dc4-a66c-a2b9a2badca2",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "카라반1",
-      "nameEn": "Caravan 1",
       "description": "",
       "roomInfo": "원룸형 : 침대룸+주방+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -371,20 +396,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -399,37 +414,39 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-09T06:39:39.048Z",
-      "updatedAt": "2026-04-09T06:41:46.658Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 1
     },
     {
       "id": "723f93ae-fc7b-46ca-94b6-90a253307550",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "카라반2",
-      "nameEn": "Caravan 2",
       "description": "",
       "roomInfo": "원룸형 : 침대룸+주방+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -439,20 +456,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -467,37 +474,39 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-04-09T06:39:38.923Z",
-      "updatedAt": "2026-04-09T06:41:46.706Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 2
     },
     {
       "id": "81225d37-d393-4aee-9616-01b7b88deb1f",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "카라반3",
-      "nameEn": "Caravan 3",
       "description": "",
       "roomInfo": "원룸형 : 침대룸+주방+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -507,20 +516,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -535,37 +534,39 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-09T06:39:39.038Z",
-      "updatedAt": "2026-04-09T06:41:46.907Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 3
     },
     {
       "id": "97ade15f-876e-41d9-b035-0bf6cf05b86e",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "카라반4",
-      "nameEn": "Caravan 4",
       "description": "",
       "roomInfo": "원룸형 : 침대룸+주방+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -575,20 +576,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -603,37 +594,39 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-09T06:39:38.938Z",
-      "updatedAt": "2026-04-09T06:41:46.950Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 4
     },
     {
       "id": "acdbb7a9-55e1-4cee-b4e3-3a3b59e9215d",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "카라반5",
-      "nameEn": "Caravan 5",
       "description": "",
       "roomInfo": "원룸형 : 침대룸+주방+화장실",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 19.83,
-      "sizePyeong": 6,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -643,20 +636,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -671,37 +654,39 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-09T06:39:39.095Z",
-      "updatedAt": "2026-04-09T06:41:46.909Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 5
     },
     {
       "id": "08ebf9b5-d880-4d10-a4d7-9843896c052c",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "미니카라반1(1인전용,화장실X,공용주방)",
-      "nameEn": "Mini Caravan 1 (Shared Bath, Kitchen)",
       "description": "",
       "roomInfo": "원룸형, 침대룸(싱글침대1)",
       "usageGuide": "",
       "group": null,
       "size": 13.22,
-      "sizePyeong": 4,
       "baseOccupancy": 1,
       "maxOccupancy": 1,
       "totalRoomCount": {
@@ -711,57 +696,49 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "에어컨",
         "냉장고",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-09T06:39:39.080Z",
-      "updatedAt": "2026-04-09T06:41:46.841Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 6
     },
     {
       "id": "c4bac5e4-e44a-4a64-9ab4-efd734a8d6b4",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "미니카라반2(1인전용,화장실X,공용주방)",
-      "nameEn": "Mini Caravan 2 (Shared Bath, Kitchen)",
       "description": "",
       "roomInfo": "원룸형, 침대룸(싱글침대1)",
       "usageGuide": "",
       "group": null,
       "size": 13.22,
-      "sizePyeong": 4,
       "baseOccupancy": 1,
       "maxOccupancy": 1,
       "totalRoomCount": {
@@ -771,57 +748,49 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "싱글 베드"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "에어컨",
         "냉장고",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-09T06:39:39.052Z",
-      "updatedAt": "2026-04-09T06:41:46.896Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 7
     },
     {
       "id": "f051ff8d-88ba-492d-a45b-9d348033e21b",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "독채펜션1",
-      "nameEn": "Private Pension 1",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(침구세트1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -831,20 +800,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "바닥침구"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -859,38 +818,40 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층",
         "독채"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-09T06:39:38.941Z",
-      "updatedAt": "2026-04-09T06:41:46.931Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 8
     },
     {
       "id": "d5bb57de-4d97-4cf1-9e1c-16189afec186",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "독채펜션2",
-      "nameEn": "Private Pension 2",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(침구세트1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -900,20 +861,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "바닥침구"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -928,38 +879,40 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층",
         "독채"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-09T06:39:39.097Z",
-      "updatedAt": "2026-04-09T06:41:46.986Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 9
     },
     {
       "id": "d3af27c1-c36e-46a9-aef7-795224d44151",
-      "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
-      "propertyName": "강릉 굿캠핑 카라반 펜션",
       "name": "독채펜션3",
-      "nameEn": "Private Pension 3",
       "description": "",
       "roomInfo": "복층형, 거실1+침대룸(침구세트1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 비용 : 비수기 1인 10,000원 (1박기준/현장결제)\n※ 성수기(7월 6일~8월 23일) 인원추가 비용 1인 15,000원 (1박기준/현장결제)\n※ 12개월 이하 영유아 무료 / 인원수에는 포함됨",
       "group": null,
       "size": 26.45,
-      "sizePyeong": 8,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -969,20 +922,10 @@
         "ondol": 0,
         "kitchen": 1
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "바닥침구"
       ],
+      "bedConfigs": null,
       "amenities": [
         "침대",
         "스마트 TV",
@@ -997,25 +940,31 @@
         "바디워시",
         "금연"
       ],
-      "roomViews": [],
+      "roomViews": [ ],
       "roomStructures": [
         "복층",
         "독채"
       ],
       "status": "active",
-      "bankAccountId": "50b7dd40-6cb1-41d0-9cb8-93020e52796d",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-04-09T06:39:39.044Z",
-      "updatedAt": "2026-04-09T06:41:46.873Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2"
+      "displayOrder": 10
     }
   ],
   "homepage": {
@@ -1024,7 +973,7 @@
     "templateType": "full_banner_conveyer",
     "images": [
       {
-        "logo": []
+        "logo": [ ]
       }
     ],
     "seo": {
@@ -1032,7 +981,12 @@
       "description": "강릉 굿캠핑 카라반 펜션",
       "keywords": "강릉펜션,강릉숙소,강릉카라반,강릉캠핑,강릉여행,강릉힐링"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -1046,73 +1000,83 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-jndtm39yep.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "fe12de15-7761-42d4-a775-23ff5bb31ae0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-ecyooe74hp6.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f7b43451-aabc-4c5f-b52f-f481f37e87c9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-9k361srdkxv.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "29624682-454e-478f-9536-3db1bacaf9bc",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-pgrr9ntb9m.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "16573409-20ab-4a62-9c52-cafd1347310c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-msi265titiq.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "f12c2c66-6f8b-4c07-8447-969ecc209b54",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-6k0t0cel4q5.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d0fe8b43-a07b-4e28-9eb9-a7dae90a5d5e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-l71aat4s3i.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "217a7480-7f35-46c1-ae0f-011527810abf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-7b3zxfbvti7.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "d3387a01-92ca-46c9-a0b2-bc984c5c18b9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753102-bt1wsjlvw74.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "564b1514-0c9b-45ef-aa28-6ef43e2ed6c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1776415753103-qzq43efq9hh.jpg",
                     "sortOrder": 9,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " 바로 앞 바다에서 낭만을 온전히 느낄 수 있는 강릉 굿캠핑 🌊✨"
               },
@@ -1124,10 +1088,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_closing/1776667308515-sf5al1sr8l.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -1139,24 +1104,27 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1776415979957-t2cc5643lft.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b9c16f8a-4ccc-4342-aa61-2bd07788ba51",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1776415979957-r4dpxolri9.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "82d91a5e-237c-4d7c-a78b-c3ebecf2ae10",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1776418365616-ivmu5suerks.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "강릉 굿캠핑은 캠핑장, 미니카라반, 독채펜션 \n3가지 객실 타입을 갖춰 여행 스타일과 편의에 맞게 \n원하는 공간을 선택해 머물 수 있어요.\n\n바로 앞 바다까지 더해져 낭만적인 강릉 여행을 \n더욱 특별하게 완성합니다."
               },
@@ -1168,38 +1136,43 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_gallery/1776415753103-9rit1lku6c.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "ae4c7049-9547-46bc-801e-3d1e29be4556",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_gallery/1776415753103-asvmlzkzmy.jpg",
                     "sortOrder": 1,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "860a36b2-40b4-49bc-8e41-cb402043e673",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_gallery/1776415753103-pt9phl0tmri.jpg",
                     "sortOrder": 2,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "037923ae-5234-4107-8e85-6e7f448ca6b7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_gallery/1776415753103-wp4q1sbtgkp.jpg",
                     "sortOrder": 3,
                     "description": " ",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b897c2d4-21d6-4398-b9e9-013ac86d6721",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_gallery/1776418365617-w0tuaez200o.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "강릉 굿캠핑 카라반 펜션의 매력을 미리 확인해 보세요!"
               },
@@ -1211,10 +1184,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_signature/1776415979957-4d13y79z1vt.jpg",
                     "sortOrder": 0,
                     "description": "인생컷  가능한 멋진 풍경이 있는 굿캠핑 📸✨",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image"
               }
             }
@@ -1231,7 +1205,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/directions_hero/1776667709615-s8iv2oraclt.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -1253,7 +1228,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_hero/1776416185832-j9sn2s656pc.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "강릉 굿캠핑은 캠핑장, 미니카라반, 독채펜션 \n3가지 객실 타입을 갖춰 여행 스타일과 편의에 맞게 \n원하는 공간을 선택해 머물 수 있어요.\n\n바로 앞 바다까지 더해져 낭만적인 강릉 여행을 \n더욱 특별하게 완성합니다."
@@ -1293,8 +1269,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -1306,27 +1282,30 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/reservation_hero/1776416185832-cxr6oq7foyo.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "ee338181-91f9-428c-82d2-7f77ccdb9e81",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/reservation_hero/1776667709615-omzbqh58tu.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "61873d0a-f75d-45b2-881e-6fc1b8a92cae",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/reservation_hero/1776416185832-238fdbzox22.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "ee338181-91f9-428c-82d2-7f77ccdb9e81",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/reservation_hero/1776667709615-omzbqh58tu.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": " ",
-                "images": [],
+                "images": [ ],
                 "description": " "
               }
             }
@@ -1334,7 +1313,7 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [ ]
       },
       "theme": {
         "font": {
@@ -1368,6 +1347,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -1376,6 +1356,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1384,6 +1365,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1392,6 +1374,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1400,6 +1383,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1408,6 +1392,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1416,6 +1401,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1424,6 +1410,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1432,6 +1419,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1440,6 +1428,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1448,6 +1437,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -1456,6 +1446,7 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
