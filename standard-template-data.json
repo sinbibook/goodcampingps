@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-07-15T10:00:14.509014046Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-07-15T10:03:21.601709362Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -1879,17 +1879,9 @@
                 "title": "강릉 굿캠핑 카라반 펜션",
                 "images": [
                   {
-                    "id": "a3f82b18-0d59-46cf-9a4d-a789480ad27b",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109018716-voea3bq0hh.jpg",
+                    "id": "c8df30e6-12a7-4700-aca2-7446f05fe869",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109797128-rkc6wwdn4l.jpg",
                     "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
-                    "id": "78240093-9da1-4d3d-9a69-368741eb5131",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784108820967-07tglkyree.jpg",
-                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -1897,6 +1889,14 @@
                   {
                     "id": "0ec6c01d-f09d-4624-9567-682fed2c02c4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109018719-v3ek5xue56.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
+                    "id": "5fbc2a01-bfd0-4b78-b27e-be2be7e80cff",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109797130-752ecwaoc2.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
