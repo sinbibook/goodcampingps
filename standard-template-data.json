@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-07-15T09:47:04.672037830Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-07-15T09:50:24.371030180Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -1864,8 +1864,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "0ce17e73-c192-467b-b727-1b12d1f6145d",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_closing/1776667308515-sf5al1sr8l.jpg",
+                    "id": "73b4847a-e3b2-4c82-b753-6c6df6d94e58",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_closing/1784109018732-o20rwxbtow.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1880,8 +1880,8 @@
                 "title": "강릉 굿캠핑 카라반 펜션",
                 "images": [
                   {
-                    "id": "b60556a3-50ba-468c-a255-8725bab0f01c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784108820925-08z2qc87dx.jpg",
+                    "id": "a3f82b18-0d59-46cf-9a4d-a789480ad27b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109018716-voea3bq0hh.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -1896,8 +1896,8 @@
                     "blockId": null
                   },
                   {
-                    "id": "286a8513-ef2e-4e9d-b2a5-0a1e047d860e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784108820969-qx5wjv89fe.jpg",
+                    "id": "0ec6c01d-f09d-4624-9567-682fed2c02c4",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_essence/1784109018719-v3ek5xue56.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
