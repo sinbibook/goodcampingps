@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.19.0",
-    "generatedAt": "2026-07-15T09:50:24.371030180Z",
+    "version": "1.20.0",
+    "generatedAt": "2026-07-15T09:54:15.753398943Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -2004,8 +2004,8 @@
                 "title": " ",
                 "images": [
                   {
-                    "id": "6ce66491-38c8-496d-b17b-bbfe552b001a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_hero/1776416185832-j9sn2s656pc.jpg",
+                    "id": "eb3e35c9-7c1a-4b1a-830e-30e083007144",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_hero/1784109244354-psx6gnjk8w.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2019,8 +2019,8 @@
                   "title": "바다 바로 앞 위치",
                   "images": [
                     {
-                      "id": "5cf62fcc-2d6d-42d2-b858-fca4271f68f2",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_about/1776667308516-7h48zjgm4j4.jpg",
+                      "id": "aabcca25-3b78-4f78-a807-5a1ea034119b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_about/1784109244259-rhptirc9pt.jpg",
                       "sortOrder": 0,
                       "description": "",
                       "isSelected": true,
@@ -2034,8 +2034,8 @@
                   "title": "3가지 객실타입",
                   "images": [
                     {
-                      "id": "e194072b-700a-4d10-a7aa-2d854359102e",
-                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_about/1776667485120-vvfqe4nx7cr.jpg",
+                      "id": "50e39905-8599-46be-914e-77b4a68d3d10",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/main_about/1784109244259-kn5uhtszqr.jpg",
                       "sortOrder": 1,
                       "description": "",
                       "isSelected": true,
