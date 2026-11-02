@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-11-02T09:14:32.885259598Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-11-02T09:16:09.333654602Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -1822,7 +1822,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a18b34-2db1-714e-9658-14bb9961cadd",
+              "id": "01a19b8a-95b3-7727-ba68-a76f3c1ccd0c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/8KajfWUtg6pD.jpg",
               "sortOrder": 1,
               "description": "",
@@ -1832,7 +1832,7 @@
           ],
           "interior": [
             {
-              "id": "01a18b34-2db1-7194-8281-361090d5137f",
+              "id": "01a19b8a-95b3-7bdb-b56f-10402056b679",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/gBiDS5wEWTVj.jpg",
               "sortOrder": 2,
               "description": "",
@@ -1840,7 +1840,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-71df-b2eb-a03e58fd69fc",
+              "id": "01a19b8a-95b3-7caf-8253-a9066009e62b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/5OVqzonsgp7Y.jpg",
               "sortOrder": 3,
               "description": "",
@@ -1848,7 +1848,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-71f9-acba-aa277a6cf300",
+              "id": "01a19b8a-95b3-7d9a-954f-9d04aeea4581",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/lwr4gLVPkBis.jpg",
               "sortOrder": 4,
               "description": "",
@@ -1856,7 +1856,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-7245-a0f9-37012d240c66",
+              "id": "01a19b8a-95b3-7f14-8413-6812177031ea",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/zCGQqiBUNef3.jpg",
               "sortOrder": 5,
               "description": "",
@@ -1864,7 +1864,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-725d-a7f6-5cbb51142855",
+              "id": "01a19b8a-95b3-7f56-92e9-eda5cf89068f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/cEZsbhzSruyP.jpg",
               "sortOrder": 6,
               "description": "",
@@ -1872,7 +1872,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-72f2-abf0-9293a993209a",
+              "id": "01a19b8a-95b4-70aa-a18b-955b60a51b56",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/k5Pyz1QgtwAn.jpg",
               "sortOrder": 7,
               "description": "",
@@ -1880,7 +1880,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-730c-b857-89bd84a02b37",
+              "id": "01a19b8a-95b4-7138-9742-90d16317cb8e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/a1xk3u96BNyn.jpg",
               "sortOrder": 8,
               "description": "",
@@ -1888,7 +1888,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-733a-bd4c-c40ce71b115f",
+              "id": "01a19b8a-95b4-7243-b6b7-47f7260afb4e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/7oiJMG9Z83Ng.jpg",
               "sortOrder": 9,
               "description": "",
@@ -1896,15 +1896,7 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-7383-9448-dc3fb2be720d",
-              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/2OJzrwahTS1I.jpg",
-              "sortOrder": 10,
-              "description": "",
-              "isSelected": true,
-              "blockId": null
-            },
-            {
-              "id": "01a18b34-2db1-73b1-a402-d6bf822a7ee3",
+              "id": "01a19b8a-95b4-736d-8765-a6ba9e602572",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/Ea45LdGIuRTN.jpg",
               "sortOrder": 11,
               "description": "",
@@ -1912,9 +1904,17 @@
               "blockId": null
             },
             {
-              "id": "01a18b34-2db1-73cc-b3ba-126bb0317fcc",
+              "id": "01a19b8a-95b4-73bb-b215-9c74f6704245",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/07/14/zLXnCTeQa7A5.jpg",
               "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": null
+            },
+            {
+              "id": "01a19b8a-95b4-7445-8daf-c83e53c3da0c",
+              "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/02/hJFMexXEkWjz.jpg",
+              "sortOrder": 13,
               "description": "",
               "isSelected": true,
               "blockId": null
@@ -3852,7 +3852,7 @@
             {
               "id": "01a19b89-3b80-7027-89ba-d162b4a80cc8",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1793610823985-as2z9qzgcl.jpg",
-              "sortOrder": 38,
+              "sortOrder": 33,
               "description": "",
               "isSelected": true,
               "blockId": "c1f79cee-931c-4a23-97cd-266a7ba78eee",
@@ -3974,7 +3974,7 @@
             {
               "id": "d278f148-9f8f-4cb4-9c95-24793d424099",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1784108570878-2z1ukytkfj.jpg",
-              "sortOrder": 33,
+              "sortOrder": 34,
               "description": "",
               "isSelected": true,
               "blockId": "797aede3-64e9-49a9-a0cd-d145d809e758",
@@ -3983,7 +3983,7 @@
             {
               "id": "29deb8a9-e393-41dc-bb6d-4c217b483f96",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1784108570967-vv2y5q02yn.jpg",
-              "sortOrder": 34,
+              "sortOrder": 35,
               "description": "",
               "isSelected": true,
               "blockId": "797aede3-64e9-49a9-a0cd-d145d809e758",
@@ -3992,7 +3992,7 @@
             {
               "id": "bb8ac201-091e-43be-8dcb-a990e80b4938",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1784108570970-3qsu9xpskf.jpg",
-              "sortOrder": 35,
+              "sortOrder": 36,
               "description": "",
               "isSelected": true,
               "blockId": "797aede3-64e9-49a9-a0cd-d145d809e758",
@@ -4001,7 +4001,7 @@
             {
               "id": "ae8b65f5-df61-463d-9a20-f2742843250e",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1784108570971-tacb58if7a.jpg",
-              "sortOrder": 36,
+              "sortOrder": 37,
               "description": "",
               "isSelected": true,
               "blockId": "797aede3-64e9-49a9-a0cd-d145d809e758",
@@ -4010,7 +4010,7 @@
             {
               "id": "d70440cf-8f23-42c5-8a58-a1746817b714",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/roomtype_exterior/1784108570879-nkb0twh6oi.jpg",
-              "sortOrder": 37,
+              "sortOrder": 38,
               "description": "",
               "isSelected": true,
               "blockId": "797aede3-64e9-49a9-a0cd-d145d809e758",
