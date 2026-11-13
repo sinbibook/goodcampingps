@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.43.0",
-    "generatedAt": "2026-11-13T05:24:19.138332617Z",
+    "version": "1.44.0",
+    "generatedAt": "2026-11-13T05:25:54.453085852Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -315,7 +315,7 @@
           {
             "id": "01a1ce8f-b197-7f0a-b49e-108907ce455e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/12/TxVZa4uJnYwy.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -325,7 +325,7 @@
           {
             "id": "e38aac4c-31ca-4ccd-8ee5-d65970f067a4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/OxnkLJrgBEP6.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -333,7 +333,7 @@
           {
             "id": "9868dbc6-6f97-473a-bdd5-2b4aa7db567f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/5qmuNpoIDQCH.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -341,7 +341,7 @@
           {
             "id": "f84fa35c-8e89-4f43-a1c0-e9f14c8210c4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/wcTB3hGL9U8Z.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -349,15 +349,7 @@
           {
             "id": "0c8fb4e5-36b7-4934-b5a4-d9d888ba6338",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/1S9rNTC0fdj6.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "fa036a64-abf5-47af-80c5-36ae202b2d71",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/1Bt9vxqSdw6C.jpg",
-            "sortOrder": 4,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -365,7 +357,7 @@
           {
             "id": "c28b2e1b-332e-4cc3-bcca-d018e2cbcc26",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/Qlkq6OAtLJpM.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -373,7 +365,7 @@
           {
             "id": "6722c97e-b4d8-49f2-bbfc-e9a552c8ad57",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/og9cF0Wk6SbL.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -381,7 +373,7 @@
           {
             "id": "ef924423-2b22-4209-b677-71114b51145b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/cEH4lthSV3zX.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -389,7 +381,7 @@
           {
             "id": "ecea8d6e-574b-4f10-9dc6-d1c4779230e6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/15/kmdN0M5upObI.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2183,17 +2175,9 @@
                     "blockId": null
                   },
                   {
-                    "id": "838ccb6e-3f72-4a69-b3cb-8dc25d093f3a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1784107730470-bv6679dnl3.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true,
-                    "blockId": null
-                  },
-                  {
                     "id": "b337b6b6-d886-40c1-9e72-381197a974b4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1784107730478-etl7gqbjq8.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2201,7 +2185,7 @@
                   {
                     "id": "2883835e-3601-4496-81e2-75ca639824b9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1784107730483-smis6twene.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2209,7 +2193,7 @@
                   {
                     "id": "59318258-a769-4d67-84f3-9632ac7f1989",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1784107730570-cvdhkcasz3.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -2217,7 +2201,7 @@
                   {
                     "id": "7dbfa57b-7ba6-4f70-8722-8f6538553575",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/d3e2c670-78bf-4b44-93c3-32a38f380b41/index_hero/1784107730448-b946dko53y.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 7,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
