@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.42.0",
-    "generatedAt": "2026-11-13T05:22:58.761588310Z",
+    "version": "1.43.0",
+    "generatedAt": "2026-11-13T05:24:19.138332617Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "86fa0e4a-fba1-4769-985e-b5ae2d19e653",
     "homepageId": "d3e2c670-78bf-4b44-93c3-32a38f380b41"
@@ -166,11 +166,36 @@
         ]
       },
       {
+        "id": "01a1d295-7699-7a5b-8e67-34d22f0587a2",
+        "name": "불멍",
+        "description": "",
+        "usageGuide": "[불멍]\n- 이용 객실: 전객실 \n- 운영 기간: 사계절\n- 이용 장소: 카라반 앞\n- 제공 구성: 화롯대, 장작\n※ 이용 요금: 20,000원 (현장결제)\n※ 신청 시간: 입실 시\n- 운영 시간: 오후 8시 ~ 11시\n- 우천 시: 사용 불가 \n- 개인 불멍 용품(화롯대, 연료, 외부 장작 등) 지참: 불가 \n※ 오로라 가루만 가능",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a1d34b-4142-74e7-b3f1-0e27281dfa79",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1d295-7699-7a5b-8e67-34d22f0587a2/main/1794546286400-19rxy8vu5w.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1d34b-40c2-74c1-9d94-bdb03f6082b4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1d295-7699-7a5b-8e67-34d22f0587a2/main/1794546286398-vuvadxc2jn.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee",
         "name": "편의시설",
         "description": "펜션 편의시설 안내",
         "usageGuide": "- 와이파이 보유\n- 전 객실 금연\n- 공용화장실\n- 남여 공용사워장\n- 공용 전자레인지\n\n[주변관광지]\n- 사천해변\n- 사천진해변\n- 경포호\n- 경포도립공원",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "df91400c-a32d-420f-bbde-4c8eda3baade",
@@ -224,31 +249,6 @@
             "id": "1b697458-66f3-4a90-a76b-5263183b42f3",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/dc3cdcaa-e3c2-4e1a-8c9f-b8248090f2ee/main/1777012089459-fpzfyljyifj.jpg",
             "sortOrder": 6,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
-        "id": "01a1d295-7699-7a5b-8e67-34d22f0587a2",
-        "name": "불멍",
-        "description": "",
-        "usageGuide": "[불멍]\n- 이용 객실: 전객실 \n- 운영 기간: 사계절\n- 이용 장소: 카라반 앞\n- 제공 구성: 화롯대, 장작\n※ 이용 요금: 20,000원 (현장결제)\n※ 신청 시간: 입실 시\n- 운영 시간: 오후 8시 ~ 11시\n- 우천 시: 사용 불가 \n- 개인 불멍 용품(화롯대, 연료, 외부 장작 등) 지참: 불가 \n※ 오로라 가루만 가능",
-        "displayOrder": 5,
-        "images": [
-          {
-            "id": "01a1d34b-4142-74e7-b3f1-0e27281dfa79",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1d295-7699-7a5b-8e67-34d22f0587a2/main/1794546286400-19rxy8vu5w.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a1d34b-40c2-74c1-9d94-bdb03f6082b4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1d295-7699-7a5b-8e67-34d22f0587a2/main/1794546286398-vuvadxc2jn.jpg",
-            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
